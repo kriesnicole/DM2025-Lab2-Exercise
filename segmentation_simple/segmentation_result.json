@@ -1,0 +1,12 @@
+[
+  {
+    "label": "Animal",
+    "box_2d": "string",
+    "mask": "string"
+  },
+  {
+    "label": "Animal",
+    "box_2d": "string",
+    "mask": "string"
+  }
+]
